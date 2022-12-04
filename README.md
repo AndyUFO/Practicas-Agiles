@@ -1,3 +1,4 @@
 # Practicas-Agiles
 
-##Tablero KANAN del proyecto : Desarrollo de software agil
+## Tablero KANBAN del proyecto : Desarrollo de software ágil
+
